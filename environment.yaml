@@ -109,7 +109,6 @@ dependencies:
   - jupyter_server_terminals=0.4.4=py39hca03da5_1
   - jupyter_server_ydoc=0.8.0=py39hca03da5_1
   - jupyter_ydoc=0.2.4=py39hca03da5_0
-  - jupyterlab=3.6.7=py39hca03da5_0
   - jupyterlab_pygments=0.1.2=py_0
   - jupyterlab_server=2.25.1=py39hca03da5_0
   - jupyterlab_widgets=3.0.10=py39hca03da5_0
@@ -222,7 +221,6 @@ dependencies:
   - python_abi=3.9=4_cp39
   - pytz=2023.3.post1=py39hca03da5_0
   - pyyaml=6.0.1=py39h80987f9_0
-  - pyzmq=23.2.0=py39hc377ac9_0
   - re2=2022.04.01=hc377ac9_0
   - readline=8.2=h1a28f6b_0
   - referencing=0.30.2=py39hca03da5_0
@@ -274,7 +272,6 @@ dependencies:
   - validators=0.18.2=pyhd3eb1b0_0
   - wcwidth=0.2.5=pyhd3eb1b0_0
   - webencodings=0.5.1=py39hca03da5_1
-  - websocket-client=0.58.0=py39hca03da5_4
   - wheel=0.41.2=py39hca03da5_0
   - widgetsnbextension=3.5.2=py39hca03da5_1
   - xz=5.4.6=h80987f9_0
